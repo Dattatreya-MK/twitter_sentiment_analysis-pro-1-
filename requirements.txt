@@ -1,0 +1,16 @@
+streamlit
+tweepy
+snscrape
+pandas
+numpy
+scikit-learn
+nltk
+matplotlib
+seaborn
+plotly
+wordcloud
+python-dotenv
+vaderSentiment
+emoji
+detoxify
+
